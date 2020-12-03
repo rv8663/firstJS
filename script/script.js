@@ -1,3 +1,3 @@
-let i=1;
-let b=1;
+const i=1;
+const b=1;
 console.log(i);
